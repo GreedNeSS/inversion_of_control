@@ -1,0 +1,8 @@
+{
+	"author": "GreeD",
+	"api": [
+		"util",
+		"path",
+		"component1"
+	]
+}

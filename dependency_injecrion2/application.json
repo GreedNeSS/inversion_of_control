@@ -1,0 +1,12 @@
+{
+	"author": "GreeD",
+	"api": [
+		"component2",
+		"component3",
+		"mkdirp",
+		"ncp",
+		"console",
+		"setTimeout",
+		"setInterval"
+	]
+}

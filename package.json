@@ -1,0 +1,17 @@
+{
+	"name": "incersion_of_control",
+	"version": "1.0.0",
+	"description": "",
+	"main": "framework.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "GreeD",
+	"license": "ISC",
+	"dependencies": {
+		"sandboxed-fs": "^0.3.2",
+		"colors": "1.1.x",
+		"mkdirp": "0.5.x",
+		"ncp": "2.0.x"
+	}
+}
