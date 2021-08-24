@@ -15,7 +15,6 @@ const wrapFunction = (key, fn) => {
 					fs.appendFile('log.txt', log, 'utf8', err => {
 						if (err) console.log(err.message);
 					});
-					console.log('dsg');
 					callback(...args);
 				};
 			} else {
